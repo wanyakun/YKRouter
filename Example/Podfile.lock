@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (5.6.0)
+  - YKRouter (0.0.1)
+
+DEPENDENCIES:
+  - SnapKit (~> 5.6.0)
+  - YKRouter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  YKRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  YKRouter: 26d71584dadc7982f1c2706f78fd443388414cf2
+
+PODFILE CHECKSUM: 1a1a0c6d386370db74c5ac54b0ac97d3685c8101
+
+COCOAPODS: 1.11.3
