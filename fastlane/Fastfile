@@ -27,7 +27,8 @@ platform :ios do
     version = options[:version]
     yk_component_release_src(
       version:version,
-      project:'YKRouter'
+      project:'YKRouter',
+      ignore_analyze: true
     )
   end
 
@@ -36,7 +37,8 @@ platform :ios do
     version = options[:version]
     yk_component_release_static_lib(
       version:version,
-      project:'YKRouter'
+      project:'YKRouter',
+      ignore_analyze: true
     )
   end
 
@@ -45,7 +47,8 @@ platform :ios do
     version = options[:version]
     yk_component_release_fmk(
       version:version,
-      project:'YKRouter'
+      project:'YKRouter',
+      ignore_analyze: true
     )
   end
 end
