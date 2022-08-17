@@ -1,0 +1,11 @@
+framework module YKRouter {
+  umbrella header "YKRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module YKRouter.Swift {
+    header "YKRouter-Swift.h"
+    requires objc
+}
