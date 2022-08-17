@@ -404,10 +404,10 @@ extension YKRouter {
     
     private func _appWindow() -> UIWindow? {
         var window = UIApplication.shared.windows[0]
-        if window.windowLevel != UIWindow.Level.normal {
+        if window.windowLevel != UIWindow.Level.init(0.0) {
             let windows = UIApplication.shared.windows
             for tWindow in windows {
-                if tWindow.windowLevel == UIWindow.Level.normal {
+                if tWindow.windowLevel == UIWindow.Level.init(0.0) {
                     window = tWindow
                     break
                 }
