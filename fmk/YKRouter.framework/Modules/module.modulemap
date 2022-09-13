@@ -6,6 +6,6 @@ framework module YKRouter {
 }
 
 module YKRouter.Swift {
-    header "YKRouter-Swift.h"
-    requires objc
+  header "YKRouter-Swift.h"
+  requires objc
 }
