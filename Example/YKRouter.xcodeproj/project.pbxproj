@@ -63,7 +63,7 @@
 		8A92E9C69437CB5A8DF89281 /* YKRouter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YKRouter.podspec; path = ../fmk/YKRouter.podspec; sourceTree = "<group>"; };
 		9ED574F5553D78BBDC23CE5A /* Pods-YKRouter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YKRouter_Tests.release.xcconfig"; path = "Target Support Files/Pods-YKRouter_Tests/Pods-YKRouter_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		AE7E5FD1F565658D4565F16D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		E1380F168A0AA41A31CAC6AA /* YKRouter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YKRouter.podspec; path = ../YKRouter.podspec; sourceTree = "<group>"; };
+		E1380F168A0AA41A31CAC6AA /* YKRouter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YKRouter.podspec; path = ../YKRouter.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E9F08E9C076C808FF07E8E3C /* Pods_YKRouter_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YKRouter_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6927693F36291AF559F750E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
