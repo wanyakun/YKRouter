@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YKRouter'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'swift路由组件.'
   s.description      = <<-DESC
   swift路由组件支持push,present和url方式跳转
